@@ -1,8 +1,8 @@
 # Métodos Numéricos
-## Daniel Armas Ramírez
 ## ESCOM-IPN
+### Alumno: Daniel Armas Ramírez
 
-> Este repositorio contiene la implementación de los métodos numéricos vistos en la materia durante el semestre 2024-1, materia impartida por el Doctor Horacio
+Este repositorio contiene la implementación de los métodos numéricos vistos en la materia durante el semestre 2024-1, materia impartida por el Doctor Horacio
 
 ### Índice:
 
@@ -13,5 +13,5 @@
 
 #### Métodos cerrados
 
-* [Método de Bisección](./bisection.cpp)
-* [Método de la falsa posición]
+* [Método de Bisección](./cerrados/bisection.cpp)
+* [Método de la falsa posición](./cerrados/false_position.cpp)
